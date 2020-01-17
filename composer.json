@@ -1,0 +1,13 @@
+{
+    "name": "gtg7784/fatfree",
+    "description": "This is fatfree tutorial project",
+    "authors": [
+        {
+            "name": "gtg7784",
+            "email": "tae.gun7784@gmail.com"
+        }
+    ],
+    "require": {
+        "bcosca/fatfree": "3.7.1"
+    }
+}
